@@ -1,5 +1,4 @@
 # Supply-Chain-Analysis
-This project is based on e commerce company that sells sporting goods and conducted EDA to uncover problems like delivery delay pattern, warehouse performance variations, order fulfillment bottlenecks, factors influencing delivery time, a predictive model to estimate delivery delays
 
 The dataset is too large to upload directly but if you're interested you can download from here: https://drive.google.com/file/d/1lDOwB-Yk3iDawmLH3zXfijalduxSH2Iw/view?usp=drive_link.
 
