@@ -1,4 +1,4 @@
-# Supply-Chain-Analysis
+# Supply-Chain-Analysis-Project
 
 The dataset is too large to upload directly but if you're interested you can download from here: https://drive.google.com/file/d/1lDOwB-Yk3iDawmLH3zXfijalduxSH2Iw/view?usp=drive_link.
 
